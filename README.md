@@ -1,7 +1,8 @@
-# How to change the working directions (RTL) of the .NET MAUI Calendar (SfCalendar)
+# How to Change the Working Direction to Right-to-Left (RTL) in the .NET MAUI Calendar (SfCalendar)
+
 This repository contains a sample to change the working directions (RTL) of the [Syncfusion .NET MAUI Calendar](https://help.syncfusion.com/maui/calendar/getting-started) control.
 
-Please refer the KB through this link.
+Please refer the KB through this [link](https://www.syncfusion.com/kb/13909/how-to-change-the-working-direction-to-right-to-left-rtl-in-the-net-maui-calendar).
 
 ## Syncfusion controls
 
